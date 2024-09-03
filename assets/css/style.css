@@ -1,0 +1,415 @@
+.gate{
+    position:fixed;
+    font-size: 40px;
+    font-weight: bold;
+    word-spacing: 100px;
+    padding: 10px;
+ 
+}
+.lock{
+    left: 1037px;
+    position: absolute;
+    top: -40px;
+    font-style: italic;
+    font-family: "Roboto", sans-serif;
+    font-weight:bold  
+}
+.key{
+    position:absolute;
+    left: 150px;
+    bottom: 670px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 550;
+    font-style: italic;
+    font-size: xx-large;
+    top: 220px;   
+}
+.pegasus{
+    position: absolute;
+    left: 340px;
+    top: 285px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700px;
+    font-style: italic;
+    font-size: 22px;
+}
+.unicorn{
+    position: absolute;
+    left: 330px;
+    top: 340px;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 18px;
+}
+.css{
+    position: absolute;
+    left: 1015px;
+    top: 240px;
+}
+body{
+    background-image: linear-gradient(to right, #a6a6a6 , #ffffff);
+}
+a{
+    text-decoration: none;
+}
+.english{
+    color: black;
+}
+.coding{
+    position: absolute;
+    left:273px;
+    top: 380px;
+}
+.python{
+    position:absolute;
+    top: 880px;
+    font-size: 40px;
+    font-weight: 200px;
+    left: 350px;
+}
+.bits{
+    position: absolute;
+    left:150px;
+    top: 965px;
+    font-size: 30px;
+    
+}
+.door{
+    position: absolute;
+    left: 1037px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Roboto", sans-serif;
+    top: 825px;
+}
+.tech{
+    position: absolute;
+    left: 1015px;
+    top: 1005px;
+}
+.talent{
+    position: absolute;
+    top: 1650px;
+    left: 700px;
+    font-size: 43px;
+    color: rgb(45, 45, 154);
+}
+.think{
+    position: absolute;
+    top: 1800px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    left: 200px;
+}
+.place{
+    position: absolute;
+    top: 1800px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    left: 900px;
+}
+.box{
+    margin: auto;
+    border:1px solid rgb(9, 9, 9);
+    padding: 10px;
+    background-color:#F4F4F4;
+    width: 350px;
+    border-radius: 15px;
+    height: 13px;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 1875px;
+    left: 195px;
+}
+.java{
+    border:1px solid rgb(9, 9, 9);
+    padding: 10px;
+    background-color:black;
+    width: 300px;
+    border-radius: 50px;
+    height: 13px;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 1875px;
+    left: 195px;
+}
+.script{
+    
+    border:1px solid rgb(9, 9, 9);
+    padding: 10px;
+    background-color:#F4F4F4;
+    width: 350px;
+    border-radius: 15px;
+    height: 13px;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 1875px;
+    left:900px;
+}
+.concept{
+    
+    border:1px solid rgb(9, 9, 9);
+    padding: 10px;
+    background-color:black;
+    width: 80px;
+    border-radius: 50px;
+    height: 13px;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 1875px;
+    left: 900px;
+}
+.soft{
+    position: absolute;
+    top: 1980px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    left: 200px;
+}
+.project{
+    border:1px solid rgb(9, 9, 9);
+    padding: 10px;
+    background-color:#F4F4F4;
+    width: 350px;
+    border-radius: 15px;
+    height: 13px;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 2075px;
+    left:195px;
+}
+.work{
+    border:1px solid rgb(9, 9, 9);
+    padding: 10px;
+    background-color:black;
+    width: 25px;
+    border-radius: 50px;
+    height: 13px;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 2075px;
+    left: 195px;
+}
+.tag{
+    position: absolute;
+    position: absolute;
+    top: 1980px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    left: 900px;
+}
+.hexa{
+    border:1px solid rgb(9, 9, 9);
+    padding: 10px;
+    background-color:#F4F4F4;
+    width: 350px;
+    border-radius: 15px;
+    height: 13px;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 2075px;
+    left:900px;
+}
+.decimal{
+    border:1px solid rgb(9, 9, 9);
+    padding: 10px;
+    background-color:black;
+    width: 40px;
+    border-radius: 50px;
+    height: 13px;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 2075px;
+    left: 900px;
+}
+.ware{
+    position: absolute;
+    top: 2175px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    left: 200px;
+}
+.code{
+    position: absolute;
+    top: 2175px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    left: 900px;
+}
+.binary{
+    border:1px solid rgb(9, 9, 9);
+    padding: 10px;
+    background-color:#F4F4F4;
+    width: 350px;
+    border-radius: 15px;
+    height: 13px;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 2275px;
+    left:900px;
+}
+.digit{
+    border:1px solid rgb(9, 9, 9);
+    padding: 10px;
+    background-color:black;
+    width: 290px;
+    border-radius: 50px;
+    height: 13px;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 2275px;
+    left: 900px;
+}
+.number{
+    border:1px solid rgb(9, 9, 9);
+    padding: 10px;
+    background-color:#F4F4F4;
+    width: 350px;
+    border-radius: 15px;
+    height: 13px;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 2275px;
+    left:195px;
+}
+.system{
+    position: absolute;
+    top: 2500px;
+    left: 700px;
+    font-size: 43px;
+    color: rgb(45, 45, 154);
+}
+.white{
+    position: absolute;
+    top: 2650px;
+    font-size: 25px;
+    font-weight:bolder;
+    font-family: "Roboto", sans-serif;
+    left: 775px;
+}
+.karthi{
+    position: absolute;
+    top: 2750px;
+    left:775px ;
+    font-weight: bolder;
+    font-family: "Roboto", sans-serif;
+}
+.divya{
+    position: absolute;
+    top: 2830px;
+    left:775px ;
+    font-weight: bolder;
+    font-family: "Roboto", sans-serif;
+}
+.vandh{
+    position: absolute;
+    top:2900px ;
+    left:775px ;
+    font-weight: bolder;
+    font-family: "Roboto", sans-serif;
+}
+.goks{
+    position: absolute;
+    top: 2970px;
+    left:775px ;
+    font-weight: bolder;
+    font-family: "Roboto", sans-serif;
+}
+.brindhs{
+    position: absolute;
+    top: 3225px;
+    right: 0;
+}
+#net{
+    position: absolute;
+    top: 1400px;
+    left: 1030px;
+    font-style: italic;
+    font-family: "Roboto", sans-serif;
+}
+a:hover {
+    background-color: rgba(220, 144, 5, 0.85);
+    border-radius: 60px;
+    padding:3px;
+    color: blue;
+  }
+  .sups{
+    position: absolute;
+    left:125px;
+    top: 2675px;
+  }
+  .yuva{
+    position: absolute;
+    top: 340px;
+    left: 335px;
+  }
+  .sharmi{
+    position: absolute;
+    top: 2770px;
+    left: 715px;
+  }
+  .roopi{
+    position: absolute;
+    top: 2850px;
+    left: 715px;
+  }
+  .abi{
+    position: absolute;
+    top: 2917px;
+    left: 715px;
+  }
+  .sree{
+    position: absolute;
+    top: 2985px;
+    left: 715px;
+  }
+  .ani{
+    position: absolute;
+    top: 2625px;
+    left: 675px;
+  }
+  
+  nav{
+    position: fixed;
+    top:0px;
+    font-size: 30px;
+    font-weight: bold;
+    z-index: 2;
+    background-image: linear-gradient(to right, #a6a6a6 , #ffffff);
+    text-align: start;
+    width: 1445px;
+    
+  }
+  .natsu {
+   position: absolute;
+   top: 700px;
+  }
+
+  .zeref{
+    position: absolute;
+    top: 1600px;
+    background-image:  linear-gradient(to right, #ffdb43 , #d79006);
+  }
+.lucy{
+    height: 20px;
+    width: 85px;
+    border: 8px solid orange;
+    padding: 9px;
+    position: absolute;
+    top: 340px;
+    left: 360px;
+    background-color: black;
+    border-radius: 40px;
+    color: white;
+    font-size: 20px;
+    word-spacing: 3px;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
